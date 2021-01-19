@@ -1,24 +1,22 @@
-# Tableau
-
 # Tren Penjualan
 
-![1](https://user-images.githubusercontent.com/8768315/105016248-fea71100-5a74-11eb-8ecc-f47d45ebfc0c.png)
+![1](https://user-images.githubusercontent.com/8768315/105017495-6a3dae00-5a76-11eb-9c05-21421db5cb41.png)
 
 # Crosstab
 
-![2](https://user-images.githubusercontent.com/8768315/105016271-04045b80-5a75-11eb-83b9-a33780dfda1e.png)
+![2](https://user-images.githubusercontent.com/8768315/105017553-7d507e00-5a76-11eb-8541-698621938f6b.png)
 
 # Peta Profit
 
-![3](https://user-images.githubusercontent.com/8768315/105016312-141c3b00-5a75-11eb-9c4e-852e492148b0.png)
+![3](https://user-images.githubusercontent.com/8768315/105017600-8ccfc700-5a76-11eb-8a50-6b943d3d6a66.png)
 
 # Penjualan Sub Kategori
 
-![4](https://user-images.githubusercontent.com/8768315/105016324-18e0ef00-5a75-11eb-815a-7d9d8aace199.png)
+![4](https://user-images.githubusercontent.com/8768315/105017636-9822f280-5a76-11eb-933a-21031ad4b567.png)
 
 # Penjualan Breakdown
 
-![5](https://user-images.githubusercontent.com/8768315/105016337-1d0d0c80-5a75-11eb-9b5f-bb56dcca7724.png)
+![5](https://user-images.githubusercontent.com/8768315/105017709-abce5900-5a76-11eb-955f-8f1a61989af6.png)
 
 # Dashboard
 
